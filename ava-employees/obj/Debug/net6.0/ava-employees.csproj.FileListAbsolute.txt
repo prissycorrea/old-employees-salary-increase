@@ -1,0 +1,15 @@
+D:\_projects\dotnet\ava-employees\ava-employees\bin\Debug\net6.0\ava-employees.exe
+D:\_projects\dotnet\ava-employees\ava-employees\bin\Debug\net6.0\ava-employees.deps.json
+D:\_projects\dotnet\ava-employees\ava-employees\bin\Debug\net6.0\ava-employees.runtimeconfig.json
+D:\_projects\dotnet\ava-employees\ava-employees\bin\Debug\net6.0\ava-employees.dll
+D:\_projects\dotnet\ava-employees\ava-employees\bin\Debug\net6.0\ava-employees.pdb
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.csproj.AssemblyReference.cache
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.AssemblyInfoInputs.cache
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.AssemblyInfo.cs
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.csproj.CoreCompileInputs.cache
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.dll
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\refint\ava-employees.dll
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.pdb
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ava-employees.genruntimeconfig.cache
+D:\_projects\dotnet\ava-employees\ava-employees\obj\Debug\net6.0\ref\ava-employees.dll
