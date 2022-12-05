@@ -6,11 +6,5 @@
         public string role;
         public double atualSalary;
         public int since;
-
-        public double NewSalary(double increase)
-        {
-            double result = atualSalary + (atualSalary * increase / 100);
-            return result;
-        }
     }
 }

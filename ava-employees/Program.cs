@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Globalization;
+using System.Security.Cryptography.X509Certificates;
 
 namespace ava_employees
-{
+    {
     class Program
     {
         static void Main(string[] args)
@@ -11,7 +12,8 @@ namespace ava_employees
             employee = new Employees();
             int atualYear = DateTime.Now.Year;
             double increase = 10;
-            Employees NewSalary;
+            
+
 
             //menu inicial
             Console.WriteLine("------------------------------------------");
@@ -28,6 +30,7 @@ namespace ava_employees
             {
                 while (menuOption == "1")
                 {
+                    
                     //entrada dos dados digitados pelo usuário
                     Console.Write("Digite o nome do colaborador: ");
                     employee.name = Console.ReadLine();
@@ -41,7 +44,8 @@ namespace ava_employees
                     Console.Write("Digite o ano de entrada do colaborador na empresa: ");
                     employee.since = int.Parse(Console.ReadLine());
 
-                    
+                    double newSalary = employee.atualSalary + (employee.atualSalary * increase / 100);
+
                     //cálculo caso o colaborador tenha mais de 5 anos de empresa e salário acima de R$ 7.000,00
                     if (atualYear - employee.since >= 5 && employee.atualSalary > 7000)
                     {
